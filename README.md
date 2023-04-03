@@ -1,2 +1,8 @@
-# agschemas.github.io
-Landing page of agschemas
+# AGSchemas
+
+## About 
+
+AGSchemas will contain agricultural data shapes.
+
+
+
