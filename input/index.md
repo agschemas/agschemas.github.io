@@ -2,7 +2,9 @@
 
 This site contains information about AGSchemas.
 
-# NACA Team
+# NALShapes Team
+
+This team is part of a NACA collaboration.
 
 - Eric Prud'hommeaux
 - Katherine Thornton
