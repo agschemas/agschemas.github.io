@@ -1,0 +1,29 @@
+{
+  "name": "agschemas.github.io",
+  "version": "1.0.0",
+  "description": "AGSchemas will contain agricultural data shapes.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "env NODE_ENV=production npx eleventy --input input --output docs",
+    "serve": "npx eleventy --serve --input input --output docs",
+    "debug": "DEBUG=* npx eleventy --input input --output docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agschemas/agschemas.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agschemas/agschemas.github.io/issues"
+  },
+  "homepage": "https://github.com/agschemas/agschemas.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
